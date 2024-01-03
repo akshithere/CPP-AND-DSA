@@ -51,6 +51,6 @@ int a,b;
        & Bitwise AND
        ^ Bitwise Exlusive OR          */
        cout << (a << 1); // a is 10 which is 1010 -> 0101 which is 4+1=5
-3
+
  return 0;
 }
